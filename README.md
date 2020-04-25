@@ -1,2 +1,2 @@
 # docker-apps
-Various Containerized Docker Applications
+Various containerized Docker applications
